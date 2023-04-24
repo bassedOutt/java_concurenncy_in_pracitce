@@ -1,4 +1,4 @@
-package org.example.confinement;
+package com.murmylo.volodymyr.confinement;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

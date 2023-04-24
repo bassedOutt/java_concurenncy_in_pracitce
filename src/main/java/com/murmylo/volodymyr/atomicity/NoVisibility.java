@@ -1,4 +1,4 @@
-package org.example.atomicity;
+package com.murmylo.volodymyr.atomicity;
 
 public class NoVisibility {
     private static boolean ready;

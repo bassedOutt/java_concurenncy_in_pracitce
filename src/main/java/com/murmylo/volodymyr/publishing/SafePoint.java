@@ -1,4 +1,4 @@
-package org.example.publishing;
+package com.murmylo.volodymyr.publishing;
 
 import net.jcip.annotations.GuardedBy;
 

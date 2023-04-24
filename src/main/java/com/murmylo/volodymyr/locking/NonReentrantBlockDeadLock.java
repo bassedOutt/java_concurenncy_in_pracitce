@@ -1,4 +1,4 @@
-package org.example.locking;
+package com.murmylo.volodymyr.locking;
 
 public class NonReentrantBlockDeadLock {
     public class Widget {

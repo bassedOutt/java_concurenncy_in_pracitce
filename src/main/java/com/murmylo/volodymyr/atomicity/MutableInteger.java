@@ -1,4 +1,4 @@
-package org.example.atomicity;
+package com.murmylo.volodymyr.atomicity;
 
 
 import net.jcip.annotations.NotThreadSafe;
